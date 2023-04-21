@@ -1,0 +1,19 @@
+﻿  Clothing.cpp
+  Quotation.cpp
+  Main.cpp
+  Presenter.cpp
+  Shirt.cpp
+E:\Biblioteca de Usuario\Escritorio\Desafio_Final_Curso_CPP_Quark\Desafio Final\Shirt.cpp(16,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Biblioteca de Usuario\Escritorio\Desafio_Final_Curso_CPP_Quark\Desafio Final\Shirt.cpp(19,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Biblioteca de Usuario\Escritorio\Desafio_Final_Curso_CPP_Quark\Desafio Final\Shirt.cpp(22,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Stock.cpp
+  Store.cpp
+  Salesman.cpp
+  Trouser.cpp
+E:\Biblioteca de Usuario\Escritorio\Desafio_Final_Curso_CPP_Quark\Desafio Final\Trouser.cpp(15,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Biblioteca de Usuario\Escritorio\Desafio_Final_Curso_CPP_Quark\Desafio Final\Trouser.cpp(18,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  View.cpp
+E:\Biblioteca de Usuario\Escritorio\Desafio_Final_Curso_CPP_Quark\Desafio Final\View.cpp(239,48): warning C4101: 'e': variable local sin referencia
+E:\Biblioteca de Usuario\Escritorio\Desafio_Final_Curso_CPP_Quark\Desafio Final\View.cpp(296,44): warning C4101: 'e': variable local sin referencia
+  Generando código...
+  Desafio Final.vcxproj -> E:\Biblioteca de Usuario\Escritorio\Desafio_Final_Curso_CPP_Quark\x64\Debug\Desafio Final.exe

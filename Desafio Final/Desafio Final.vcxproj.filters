@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de origen\Model">
+      <UniqueIdentifier>{d1df77e1-8ea4-43bc-bd65-f6fdaa13e758}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Presenter">
+      <UniqueIdentifier>{54a6412f-8200-4538-985f-df3f57680aca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\View">
+      <UniqueIdentifier>{a8bab675-888c-4824-82cf-f8f3aff49d1e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Store.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Salesman.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Quotation.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Presenter.cpp">
+      <Filter>Archivos de origen\Presenter</Filter>
+    </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>Archivos de origen\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Stock.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Clothing.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Trouser.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Shirt.cpp">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Store.h">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Salesman.h">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Quotation.h">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Presenter.h">
+      <Filter>Archivos de origen\Presenter</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Archivos de origen\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Stock.h">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Clothing.h">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Trouser.h">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Shirt.h">
+      <Filter>Archivos de origen\Model</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
